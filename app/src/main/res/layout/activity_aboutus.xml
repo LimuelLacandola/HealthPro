@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Aboutus">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/dev"
+        android:alpha="0.5"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
+
+
+    <ImageView
+        android:id="@+id/aboutback"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="0dp"
+        android:padding="20dp"
+        android:src="@drawable/backbutton" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HealthPro Developers"
+        android:textStyle="bold"
+        android:textSize="35dp"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="90dp">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="210dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/eli" />
+
+
+        <ImageView
+            android:layout_marginStart="35dp"
+            android:layout_marginTop="210dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/rj" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="470dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/daryll" />
+
+
+        <ImageView
+            android:layout_marginStart="35dp"
+            android:layout_marginTop="470dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/limuel" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aguirre, Elizardo"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="370dp">
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Albino, Rj"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_marginStart="260dp"
+        android:layout_marginTop="370dp">
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gabitan, Daryll"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="630dp">
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lacandola, Limuel"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_marginStart="220dp"
+        android:layout_marginTop="630dp">
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Resources"
+        android:textColor="@color/grey"
+        android:layout_marginTop="690dp"
+        android:layout_centerHorizontal="true">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="100dp"
+        android:layout_marginTop="680dp">
+
+        <ImageView
+            android:id="@+id/flaticon"
+            android:layout_marginTop="10dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/flaticon"/>
+
+    <ImageView
+        android:id="@+id/firebase"
+        android:layout_marginTop="10dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/firebase"/>
+
+        <ImageView
+            android:id="@+id/lottie"
+            android:layout_marginTop="10dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/lottie"/>
+
+        <ImageView
+            android:id="@+id/material"
+            android:layout_marginTop="10dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/material"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

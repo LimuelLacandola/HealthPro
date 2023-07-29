@@ -1,0 +1,83 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            >
+
+            <ImageView
+                android:id="@+id/historyback"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:src="@drawable/backbutton" />
+
+            <TextView
+                android:layout_width="170dp"
+                android:layout_height="wrap_content"
+                android:text="BurnPacer History"
+                android:layout_marginStart="16dp"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/saveButton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="50dp"
+                android:src="@drawable/download"/>
+
+
+            <!--        <ImageView-->
+            <!--            android:id="@+id/saveAsPdfButton"-->
+            <!--            android:layout_width="80dp"-->
+            <!--            android:layout_height="50dp"-->
+            <!--            android:src="@drawable/pdf" />-->
+
+        </LinearLayout>
+
+        <TableLayout
+            android:id="@+id/tableLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@color/white"/>
+
+        <TextView
+            android:id="@+id/stepsTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="8dp"
+            android:textSize="18sp"
+            android:background="@drawable/cell_border" />
+
+        <TextView
+            android:id="@+id/caloriesTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="8dp"
+            android:textSize="18sp"
+            android:background="@drawable/cell_border" />
+
+        <TextView
+            android:id="@+id/kmTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="8dp"
+            android:textSize="18sp"
+            android:background="@drawable/cell_border" />
+
+
+    </LinearLayout>
+
+</ScrollView>

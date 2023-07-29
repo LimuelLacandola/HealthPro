@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="50dp"
+    tools:context=".Login">
+
+
+    <ImageView
+        android:layout_width="350px"
+        android:layout_height="350px"
+        android:src="@drawable/healthpro"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Health Pro"
+        android:fontFamily="@font/helveticabold"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="230dp"
+        android:textStyle="bold"
+        android:textSize="50dp"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign in to your account"
+        android:layout_marginTop="300dp"
+        android:layout_marginStart="30dp"
+        android:fontFamily="@font/helveticabold"
+        android:textSize="15sp"/>
+
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/usernamelogin"
+        style="@style/ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
+        android:hint="Email"
+        android:textColorHint="@color/black"
+        app:endIconMode="clear_text"
+        android:layout_marginTop="325dp"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:drawableLeft="@drawable/baseline_person_outline_24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/passwordlogin"
+            style="@style/ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Password"
+            android:textColorHint="@color/black"
+            android:paddingTop="15dp"
+            app:endIconMode="password_toggle">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forgot Password"
+        android:textStyle="bold"
+        android:layout_marginTop="470dp"
+        android:layout_marginStart="270dp"
+        android:visibility="invisible"
+        />
+    <android.widget.Button
+        android:id="@+id/loginbtn"
+        android:layout_width="150dp"
+        android:layout_height="48dp"
+        android:text="Log in"
+        android:textSize="16dp"
+        android:background="@drawable/buttonbg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="490dp"
+        android:textFontWeight="1000"
+       />
+
+
+    <TextView
+        android:id="@+id/regnowtxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New user? Register Now"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="560dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/forgotPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forgot Password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="600dp"
+        android:textStyle="bold"/>
+
+
+    <Button
+        android:id="@+id/regbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="530dp"
+        android:visibility="invisible"/>
+
+
+</RelativeLayout>

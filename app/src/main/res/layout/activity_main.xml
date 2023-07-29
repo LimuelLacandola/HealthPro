@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginTop="180dp"
+        android:layout_centerHorizontal="true"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="alternativemain.json"
+        app:lottie_loop="true" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Health Pro"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="440dp"
+        android:textSize="35dp"
+        android:fontFamily="@font/helveticabold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="490dp"
+        android:fontFamily="@font/helveticabold"
+        android:text="Personalized Fitness Monitoring Mobile"
+        android:textColor="@color/grey"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="510dp"
+        android:fontFamily="@font/helveticabold"
+        android:text="Application for Individual Users"
+        android:textColor="@color/grey"
+        android:textSize="16sp" />
+
+<!--    <ImageView-->
+<!--        android:id="@+id/startbtn"-->
+<!--        android:layout_width="100dp"-->
+<!--        android:layout_height="100dp"-->
+<!--        android:layout_marginTop="530dp"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:src="@drawable/startbutton" />-->
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/startbtn"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:lottie_fileName="g.json"
+        android:layout_marginTop="500dp"
+        android:layout_centerHorizontal="true"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"/>
+
+</RelativeLayout>

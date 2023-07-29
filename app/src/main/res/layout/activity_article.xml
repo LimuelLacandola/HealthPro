@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Article">
+
+    <ImageView
+        android:id="@+id/articleback"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="0dp"
+        android:padding="20dp"
+        android:src="@drawable/backbutton" />
+
+<!--    <ImageView-->
+<!--        android:id="@+id/articlenext"-->
+<!--        android:layout_width="100dp"-->
+<!--        android:layout_height="100dp"-->
+<!--        android:layout_marginStart="290dp"-->
+<!--        android:padding="20dp"-->
+<!--        android:src="@drawable/nextbutton" />-->
+
+    <WebView
+        android:id="@+id/article"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="80dp"
+        android:background="#FFFFFF" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="Feedback"
+        android:id="@+id/feedback"
+        android:layout_marginTop="630dp"
+        android:layout_marginLeft="280dp"
+        android:src="@drawable/feedback1"
+        />
+
+</RelativeLayout>

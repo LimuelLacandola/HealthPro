@@ -1,0 +1,5 @@
+<!-- row_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_activated="true" android:drawable="@color/row_color_even" />
+    <item android:state_activated="false" android:drawable="@color/row_color_odd" />
+</selector>
