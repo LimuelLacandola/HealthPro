@@ -2,7 +2,7 @@
 
 # Overview
 ![1](https://github.com/LimuelLacandola/HealthPro/assets/119423556/c43d0616-87cf-4205-b28b-8bdee47967ee)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquet libero egestas elit placerat lobortis. Ut nisl odio, interdum viverra euismod ut, finibus et tellus. Aenean viverra ligula nec elit rhoncus, blandit rhoncus mauris posuere. Aliquam auctor non diam vitae pharetra
+Introducing Health Pro - your ultimate health buddy! With easy-to-use features like BMI Calculator, you can know if you're on a healthy track. Stay informed with inspiring articles about fitness and health. The Reminder helps you remember important tasks like taking meds or doing exercises. Keep moving and motivated with the Steps Counter that tracks your daily steps.
 
 
 # Requirements
@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquet liber
 ![5](https://github.com/LimuelLacandola/HealthPro/assets/119423556/1ccf4845-375c-444f-b87b-bdc39c1ff925)
 
 ### 4. Burnpacer
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquet libero egestas elit placerat lobortis. Ut nisl odio, interdum viverra euismod ut, finibus et tellus. Aenean viverra ligula nec elit rhoncus, blandit rhoncus mauris posuere. Aliquam auctor non diam vitae pharetra
+![burnpacer](https://github.com/LimuelLacandola/HealthPro/assets/119423556/6a0c319d-dfa0-40d3-8f4d-db998a9545c9)
 
 # Researcher/Developer:
 * Albino, Rj
