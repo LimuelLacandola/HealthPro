@@ -11,14 +11,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquet liber
 * USB cable (to connect Android device to your computer)
 
 # Features
-### 1. Body Mass Index Calculator
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquet libero egestas elit placerat lobortis. Ut nisl odio, interdum viverra euismod ut, finibus et tellus. Aenean viverra ligula nec elit rhoncus, blandit rhoncus mauris posuere. Aliquam auctor non diam vitae pharetra
+### 1. Dashboard
+![2](https://github.com/LimuelLacandola/HealthPro/assets/119423556/40251906-deb8-4092-825a-c8e0845d9877)
 
-### 2. Articles
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquet libero egestas elit placerat lobortis. Ut nisl odio, interdum viverra euismod ut, finibus et tellus. Aenean viverra ligula nec elit rhoncus, blandit rhoncus mauris posuere. Aliquam auctor non diam vitae pharetra
+### 2. Body Mass Index Calculator
+![3](https://github.com/LimuelLacandola/HealthPro/assets/119423556/17856ab1-b7d0-4b73-bb90-bd986a981ffe)
 
-### 3. Reminder
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquet libero egestas elit placerat lobortis. Ut nisl odio, interdum viverra euismod ut, finibus et tellus. Aenean viverra ligula nec elit rhoncus, blandit rhoncus mauris posuere. Aliquam auctor non diam vitae pharetra
+### 3. Articles
+![4](https://github.com/LimuelLacandola/HealthPro/assets/119423556/118d23c6-fd4e-480f-b2a4-1c64c73d14ce)
+
+### 4. Reminder
+![5](https://github.com/LimuelLacandola/HealthPro/assets/119423556/1ccf4845-375c-444f-b87b-bdc39c1ff925)
 
 ### 4. Burnpacer
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquet libero egestas elit placerat lobortis. Ut nisl odio, interdum viverra euismod ut, finibus et tellus. Aenean viverra ligula nec elit rhoncus, blandit rhoncus mauris posuere. Aliquam auctor non diam vitae pharetra
