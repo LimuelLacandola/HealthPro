@@ -38,9 +38,12 @@ Take a step towards a healthier lifestyle with the Burnpace feature. Let the app
 ### 5. Rate Us
 We value your feedback! Your opinions matter greatly to us. Take a moment to share valuable insights, thoughts, and suggestions with our "Rate Us" feature. Your input is instrumental in enhancing and refining the app, making it even more user-friendly and enjoyable.
 
+![7](https://github.com/LimuelLacandola/HealthPro/assets/119423556/2279c427-eb90-4d71-92c2-96b18210ad74)
 
 ### 6. Developers
+In the developer feature, learn to know the developers that made the application. They committed themselves to ensuring that the application is pleasant and user-friendly for you. An overview of the tools and resources used to create the app can be seen below.
 
+![8](https://github.com/LimuelLacandola/HealthPro/assets/119423556/4719cb6f-e25d-4e00-8fdf-bb2e2f0f9713)
 
 
 
