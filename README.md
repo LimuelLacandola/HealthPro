@@ -11,7 +11,7 @@ Introducing Health Pro - your ultimate health buddy! With easy-to-use features l
 
 # Features
 ### 1. Dashboard
-
+The dashboard presents a primary set of four features and two additional sub-features. The main features include the BMI Calculator, Articles, Reminder, and Steps Counter, while the sub-features encompass the options to Rate Us and explore information about the Developers. Users can utilize the app to calculate their BMI, read informative articles, set reminders, monitor their daily steps, offer feedback, and gain insights into the app's creators. The ultimate goal is to promote well-being, knowledge, and active user involvement.
 
 ![2](https://github.com/LimuelLacandola/HealthPro/assets/119423556/40251906-deb8-4092-825a-c8e0845d9877)
 
