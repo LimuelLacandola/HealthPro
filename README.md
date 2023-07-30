@@ -24,14 +24,17 @@ Introducing Health Pro - your ultimate health buddy! With easy-to-use features l
 ### 4. Burnpacer
 ![burnpacer](https://github.com/LimuelLacandola/HealthPro/assets/119423556/6a0c319d-dfa0-40d3-8f4d-db998a9545c9)
 
+# Demo Video
+https://www.youtube.com/watch?v=JRbuBEB6rjw
+
 # Researcher/Developer:
-* Albino, Rj
-* Aguirre, Elizardo T.
-* Gabitan, Daryll M.
-* Lacandola, Limuel F.
+* Limuel Lacandola
+* Elizardo Aguirre
+* Albino Rj
+* Daryll Gabitan
 
 # Professor:
-* Costales, Jefferson A.
+* Jefferson A. Costales
 
 # School Name:
 Eulogio "Amang" Rodriguez Insitute of Science and Technology
