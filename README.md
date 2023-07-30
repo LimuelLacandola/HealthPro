@@ -10,6 +10,7 @@ Introducing Health Pro - your ultimate health buddy! With easy-to-use features l
 
 # Features
 ### 1. Dashboard
+Users are encouraged to take control of their health by utilizing the BMI (Body Mass Index) Calculator. By inputting their height and weight, the intelligent tool will evaluate their body composition. As they embark on their fitness journey, they can conveniently monitor their progress over time.
 ![2](https://github.com/LimuelLacandola/HealthPro/assets/119423556/40251906-deb8-4092-825a-c8e0845d9877)
 
 ### 2. Body Mass Index Calculator
