@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=JRbuBEB6rjw
 # Researcher/Developer:
 * Limuel Lacandola
 * Elizardo Aguirre
-* Albino Rj
+* Rj Albino
 * Daryll Gabitan
 
 # Professor:
