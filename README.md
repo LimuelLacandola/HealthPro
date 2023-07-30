@@ -1,5 +1,6 @@
 # HealthPro
 Introducing Health Pro - your ultimate health buddy! With easy-to-use features like BMI Calculator, you can know if you're on a healthy track. Stay informed with inspiring articles about fitness and health. The Reminder helps you remember important tasks like taking meds or doing exercises. Keep moving and motivated with the Steps Counter that tracks your daily steps.
+
 ![1](https://github.com/LimuelLacandola/HealthPro/assets/119423556/c43d0616-87cf-4205-b28b-8bdee47967ee)
 
 
@@ -10,20 +11,28 @@ Introducing Health Pro - your ultimate health buddy! With easy-to-use features l
 
 # Features
 ### 1. Dashboard
-Users are encouraged to take control of their health by utilizing the BMI (Body Mass Index) Calculator. By inputting their height and weight, the intelligent tool will evaluate their body composition. As they embark on their fitness journey, they can conveniently monitor their progress over time.
+
 
 ![2](https://github.com/LimuelLacandola/HealthPro/assets/119423556/40251906-deb8-4092-825a-c8e0845d9877)
 
 ### 2. Body Mass Index Calculator
+Users are encouraged to take control of their health by utilizing the BMI (Body Mass Index) Calculator. By inputting their height and weight, the intelligent tool will evaluate their body composition. As they embark on their fitness journey, they can conveniently monitor their progress over time.
+
 ![3](https://github.com/LimuelLacandola/HealthPro/assets/119423556/17856ab1-b7d0-4b73-bb90-bd986a981ffe)
 
 ### 3. Articles
+Read different articles to learn new things and stay informed. The application cover health tips, nutrition advice, and fitness routines, so you're well taken care of. Get the latest info easily and improve your well-being!
+
 ![4](https://github.com/LimuelLacandola/HealthPro/assets/119423556/118d23c6-fd4e-480f-b2a4-1c64c73d14ce)
 
 ### 4. Reminder
+Never forget important tasks or appointments again! Use the Reminder feature to set timely alerts for medications, workouts, or any other essential activities. Stay organized and on top of your daily routine effortlessly.
+
 ![5](https://github.com/LimuelLacandola/HealthPro/assets/119423556/1ccf4845-375c-444f-b87b-bdc39c1ff925)
 
 ### 4. Burnpacer
+Take a step towards a healthier lifestyle with the Burnpace feature. Let the app track your physical activity and encourage you to reach your fitness goals. Keep challenging yourself to stay active throughout the day.
+
 ![burnpacer](https://github.com/LimuelLacandola/HealthPro/assets/119423556/6a0c319d-dfa0-40d3-8f4d-db998a9545c9)
 
 # Demo Video
