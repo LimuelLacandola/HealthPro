@@ -35,6 +35,15 @@ Take a step towards a healthier lifestyle with the Burnpace feature. Let the app
 
 ![burnpacer](https://github.com/LimuelLacandola/HealthPro/assets/119423556/6a0c319d-dfa0-40d3-8f4d-db998a9545c9)
 
+### 5. Rate Us
+We value your feedback! Your opinions matter greatly to us. Take a moment to share valuable insights, thoughts, and suggestions with our "Rate Us" feature. Your input is instrumental in enhancing and refining the app, making it even more user-friendly and enjoyable.
+
+
+### 6. Developers
+
+
+
+
 # Demo Video
 https://www.youtube.com/watch?v=JRbuBEB6rjw
 
