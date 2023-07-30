@@ -1,6 +1,6 @@
 # HealthPro
-![1](https://github.com/LimuelLacandola/HealthPro/assets/119423556/c43d0616-87cf-4205-b28b-8bdee47967ee)
 Introducing Health Pro - your ultimate health buddy! With easy-to-use features like BMI Calculator, you can know if you're on a healthy track. Stay informed with inspiring articles about fitness and health. The Reminder helps you remember important tasks like taking meds or doing exercises. Keep moving and motivated with the Steps Counter that tracks your daily steps.
+![1](https://github.com/LimuelLacandola/HealthPro/assets/119423556/c43d0616-87cf-4205-b28b-8bdee47967ee)
 
 
 # Requirements
